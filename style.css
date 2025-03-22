@@ -1,0 +1,55 @@
+
+h1{
+    margin:0px;
+}
+
+img{
+    float:right;
+}
+
+.clr{
+    background-color:lightskyblue;
+    color: blue;
+    filter: opacity(0.5);
+    font-weight: bolder;
+}
+
+#about{
+    overflow: auto;
+}
+
+#uid{
+    color: cornflowerblue;
+    display: inline;
+    font-weight: bold;
+}
+
+#firstline{
+    display: inline;
+}
+
+#courses{
+    overflow: auto;
+}
+
+/* Table*/
+
+table{
+    border: 2px solid black;
+    border-collapse:collapse;
+}
+
+th,td,tr{
+    border: 2px solid black;
+}
+
+.blu{
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+.offwhite{
+    background-color:rgb(239, 239, 239);
+}
+
+/* table end */
